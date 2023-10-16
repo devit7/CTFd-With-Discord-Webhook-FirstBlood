@@ -38,3 +38,13 @@ https://demo.ctfd.io/
 5. If you want to change the message that will be sent to your Discord Server, you can change the value in config.py
 
 6. Or you can change the message in the file "webhook.py" in the folder CTFd-master/CTFd/plugins/ctfd_discord_webhook_plugin
+
+7. Preview
+
+![wad](https://iili.io/JF7OmoQ.png)
+
+
+## Source Code/ Repository
+
+- https://github.com/sigpwny/ctfd-discord-webhook-plugin
+- https://github.com/CTFd/CTFd
