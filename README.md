@@ -25,7 +25,7 @@ https://demo.ctfd.io/
 
 1. Create a New Webhook in your Discord Server Settings
 
-[img](https://iili.io/JF7dlee.png)
+![wada](https://iili.io/JF7dlee.png)
 
 2. Go to Folder CTFd-master/CTFd/plugins/ctfd_discord_webhook_plugin
 
@@ -33,7 +33,7 @@ https://demo.ctfd.io/
 
 4. Change the value of the variable "WEBHOOK_URL" to the Webhook URL that you created in your Discord Server Settings
 
-[img](https://iili.io/JF73sxs.png)
+![adwa](https://iili.io/JF73sxs.png)
 
 5. If you want to change the message that will be sent to your Discord Server, you can change the value in config.py
 
