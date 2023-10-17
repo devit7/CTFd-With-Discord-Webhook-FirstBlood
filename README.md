@@ -1,10 +1,16 @@
 
+hello this is CTFd platform with discord webhook plugin i customize 
+the FirstBlood send to discord webhook and the notification send to discord webhook
+
+U can use this for your CTFd platform work in windows and linux
 
 ## Install
 
-1. Install dependencies: `pip install -r requirements.txt`
+1. Install dependencies: `pip install -r requirements.txt` dont forget to install weebhook `pip install discord-webhook`
+   or `python3 -m pip install -r requirements.txt`
    1. You can also use the `prepare.sh` script to install system dependencies using apt.
 2. Modify [CTFd/config.ini](https://github.com/CTFd/CTFd/blob/master/CTFd/config.ini) to your liking.
+      if you lazy u can just run `python serve.py` or `flask run` to run the server with default configuration.
 3. Use `python serve.py` or `flask run` in a terminal to drop into debug mode.
 
 You can use the auto-generated Docker images with the following command:
